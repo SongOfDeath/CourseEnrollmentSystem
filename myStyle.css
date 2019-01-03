@@ -1,0 +1,74 @@
+body
+{
+	
+    background-image: url("bgImage4.jpg");
+	margin:0;
+	padding:0;
+	font-family: Tahoma, Geneva, sans-serif;
+	
+	width:360px;
+	height:600px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	
+}
+.container{
+	width:692px;
+	height:480px;
+	margin-top:100px;
+	background: url("university2.png");
+
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+
+	
+	text-align:center;
+}
+
+.tbox{
+
+	wodth:260px;
+	height:40px;
+	border-radius:10px;
+	margin:10px auto;
+	
+	
+	
+	font-family: "Montserrat", sans-serif;
+	line-height:37px;
+	font-size:14px;
+}
+
+.tbox input{
+
+	wodth:260px;
+	height:40px;
+	border-radius:10px;
+	margin:10px auto;
+	
+	
+	
+	font-family: "Montserrat", sans-serif;
+	line-height:37px;
+	font-size:14px;
+}
+
+.btn
+{
+	width:260px;
+	height:40px;
+	background: #3498db;
+	border-radius:10px;
+	margin:14px auto;
+	display:block;
+	font-family: "Montserrat", sans-serif;
+	font-size:14px;
+	border:none;
+	color:white;
+	cursor:pointer;
+}
+
